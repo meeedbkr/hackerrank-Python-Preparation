@@ -9,21 +9,22 @@ You can use the code in this repository to learn Python or to prepare for Python
 ## Structure
 
 The repository is structured as follows:
-
+```
 ├── easy/
-│ ├── problem1.py
-│ ├── problem2.py
-│ └── ...
+│   ├── problem1.py
+│   ├── problem2.py
+│   └── ...
 ├── medium/
-│ ├── problem1.py
-│ ├── problem2.py
-│ └── ...
+│   ├── problem1.py
+│   ├── problem2.py
+│   └── ...
 ├── hard/
-│ ├── problem1.py
-│ ├── problem2.py
-│ └── ...
+│   ├── problem1.py
+│   ├── problem2.py
+│   └── ...
 ├── README.md
 └── .gitignore
+```
 
 
 Each subdirectory (`easy/`, `medium/`, and `hard/`) contains Python files with solutions to problems of the corresponding difficulty level on Hackerrank. The `.gitignore` file is used to exclude unnecessary files from the repository.
